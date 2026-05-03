@@ -28,7 +28,6 @@ Scripts to tune MPV into the video player for language learners.
   timestamps. <br/>
   Default: `F7`
 
-
 ## How to use
 
 ### Train READING
@@ -93,6 +92,8 @@ forget to share your work for others!
 
 Follow MPV instructions to install. (usually `.lua` should go into
 `~/.config/mpv/scripts/` and `.conf` into `~/.config/mpv/scrip-opts/`).
+
+> Tip: for Windows users, you may want to use `lang-learner.js` instead of `lang-learner.lua`. It has almost the same functionality, but with some Windows-specific fixes and improvements.
 
 ## Possible problems
 
